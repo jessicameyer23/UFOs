@@ -7,7 +7,7 @@
 The purpose of this project is to allow users to search the entire database of UFO's by different criteria, including date, city, state, country and shape. The purpose of this project was also to build a website that looked desirable, easy to navigate for the user and dynamic.
 ## Results
 I am going to list out instructions for using this webpage and the ways to filter below along with some images.
-![image_name](https://github.com/jessicameyer23/surfs_up/blob/main/June%20stats2022-02-12%20102927.png)
+![image_name](https://github.com/jessicameyer23/UFOs/blob/main/static/images/screenshot%20of%20final%20filtering%20table.png)
 ## Summary
 One drawback of this new design on the new design is that you can only choose one date at a time for searching and the search criteria is very specific. Two recommendations that I have for improving this in the future are outlined below:
 1.	Enable individuals to search for UFOs on a range of dates, for example, for 3 months, or two years, etc. Allow them to put in a range to search from.
